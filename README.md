@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thekote
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JS, REST, NO SQL
+- 🌱 I’m currently learning JS, REST, MongoDB, PSQL, React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on dkglima@mail.com
 

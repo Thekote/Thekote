@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Thekote
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JS, REST, MongoDB, PSQL, React 
+- 👋 Hi, I’m Guilherme Monteiro
+- 👀 I’m a Software Developer at CodeMiner42
+- 🌱 I’m currently learning JS, REST, MongoDB, PSQL, React, Ruby and Rails 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on dkglima@mail.com
 
